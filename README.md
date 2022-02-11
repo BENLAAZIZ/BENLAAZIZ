@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @BENLAAZIZ
-- 👀 I’m interested in site web developper
+- 👋 Hi, I’m @BENLAAZIZ site web developp
+- 👀 I’m interested in learning 
 - 🌱 I’m currently learning html and css and php and laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
