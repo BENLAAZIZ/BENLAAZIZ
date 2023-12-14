@@ -5,4 +5,4 @@
 
 ## 👋 Hi  I’m   BEN LAAZIZ HAMZA full stack developer
 
-<span style="color: red;">This is red text.</span>
+<span style="color: #ff0000;">This is red text.</span>
