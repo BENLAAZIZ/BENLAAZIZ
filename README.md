@@ -6,6 +6,6 @@
 
 
 
-## 👋 Hi  I’m   ![Custom Badge](https://img.shields.io/badge/HAMZA-BEN-LAAZIZ-Ged?color=green) full stack developer
+## 👋 Hi  I’m   ![Custom Badge](https://img.shields.io/badge/HAMZA_BEN_LAAZIZ-Ged?color=green) full stack developer
 
 
