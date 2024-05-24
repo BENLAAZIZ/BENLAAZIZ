@@ -36,6 +36,3 @@ Hello! I'm currently a student at 1337 School, where I dive into the exciting wo
   <img src="https://komarev.com/ghpvc/?username=sammorozov&style=for-the-badge&color=orange" alt=""/>
 </div>
 
-<p align="center">
- <img width="1000" src="[assets/github-snake.svg"](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg) alt="snake"/>
-</p>
