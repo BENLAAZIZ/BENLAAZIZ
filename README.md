@@ -24,7 +24,6 @@ Hello! I'm currently a student at 1337 School, where I dive into the exciting wo
 
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=sammorozov&show_icons=true&theme=vision-friendly-dark">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammorozov&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
  
@@ -38,5 +37,5 @@ Hello! I'm currently a student at 1337 School, where I dive into the exciting wo
 </div>
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+ <img width="1000" src="[assets/github-snake.svg"](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg) alt="snake"/>
 </p>
