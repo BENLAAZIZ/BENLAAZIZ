@@ -7,7 +7,7 @@ I'm currently a student at 1337 School, where I dive into the exciting world of 
 
 
   
-### Environments, Testing, Other:
+### Languages & Tools:
 
 |     C    | nodejs | Git | Virtual Box| Linux | MySQL |
 |----------|----------|----------|----------|----------|----------|
